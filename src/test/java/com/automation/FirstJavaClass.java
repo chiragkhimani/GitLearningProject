@@ -7,5 +7,7 @@ public class FirstJavaClass {
 
         System.out.println("first change in the java class, the right one!");
 
+        System.out.println("Francis hi");
+
     }
 }
