@@ -7,5 +7,7 @@ public class FirstJavaClass {
 
         System.out.println("This is right one! Tea with Milk");
 
+        System.out.println("Francis hi");
+
     }
 }
