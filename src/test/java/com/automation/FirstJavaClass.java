@@ -5,7 +5,7 @@ public class FirstJavaClass {
         System.out.println("First Line Of Code");
         System.out.println("This is Chirag");
 
-        System.out.println("This is right one! Tea with Milk");
+        System.out.println("This is right one! Tea with Milk and Honey");
 
         System.out.println("Francis hi");
 
